@@ -1,1 +1,1 @@
-
+The point of this code is to make the LED brigtness higer by 10% every time we press a button. The way i completed this task is i made a inturrupt to say when the button is pressed it will increses the led brighness by 10 percent. But when the button is pressed and the led brightness is at 100% it will reset the brightness at the lowest level. That whole senario will work for both the green and the red LED while the red LED is attached to the right button  and the green led is attached to the left button. 
