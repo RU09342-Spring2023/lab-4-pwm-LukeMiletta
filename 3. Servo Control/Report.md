@@ -1,1 +1,2 @@
 
+This code makes sure everything is set up correctly and then starts checking if either button has been pressed in a loop. If the left button is pressed, the motor moves in one direction, and if the right button is pressed, it moves in the other direction. The motor is controlled using a  pin called SERVO_PIN, which acts like a switch. When the code turns the switch on, the motor moves in one direction, and when it turns it off, the motor stops moving. To make sure the motor moves for the right amount of time, the code also adds in some delays.
